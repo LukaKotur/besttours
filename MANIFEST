@@ -1,0 +1,25 @@
+This zip file contains optimized resources for http://besttours.rs/. The optimized resources are listed below in the format of: 
+filename: url
+
+Note: We only include up to 10 MB of optimized contents. If the
+optimized contents of your page are larger than 10 MB, we list them in
+this file too, with 'NOT INCLUDED' to indicate those URLs require
+further optimization.
+
+css/bootstrap-slider.css: http://besttours.rs/css/bootstrap-slider.css
+css/reset.css: http://besttours.rs/css/reset.css
+css/main.css: http://besttours.rs/css/main.css
+js/besttours.js: http://besttours.rs/js/besttours.js
+js/bootstrap-slider.js: http://besttours.rs/js/bootstrap-slider.js
+js/smoothscroll.js: http://besttours.rs/js/smoothscroll.js
+js/modernizr.js: http://besttours.rs/js/modernizr.js
+js/main.js: http://besttours.rs/js/main.js
+image/logo.png: http://besttours.rs/images/logo.png
+image/24h.png: http://besttours.rs/images/24h.png
+image/kombi.png: http://besttours.rs/images/kombi.png
+image/vozac.png: http://besttours.rs/images/vozac.png
+image/sediste.png: http://besttours.rs/images/sediste.png
+image/s4-bg.png: http://besttours.rs/images/s4-bg.png
+image/destinacije.jpg: http://besttours.rs/images/gradovi/destinacije.jpg
+image/aero-ture.jpg: http://besttours.rs/images/gradovi/aero-ture.jpg
+image/shopping-ture.jpg: http://besttours.rs/images/gradovi/shopping-ture.jpg

@@ -1,0 +1,449 @@
+@charset "utf-8";
+	.x33_
+{
+	background-image : url(x33_.png);
+	background-repeat : no-repeat;
+}
+header
+{
+	background-image : url(header.png);
+	background-repeat : no-repeat;
+}
+.header_1_
+{
+	background-image : url(header_1_.png);
+	background-repeat : no-repeat;
+}
+.footer_2_
+{
+	background-image : url(footer_2_.png);
+	background-repeat : no-repeat;
+}
+.header_2_
+{
+	background-image : url(header_2_.png);
+	background-repeat : no-repeat;
+}
+.footer_4_
+{
+	background-image : url(footer_4_.png);
+	background-repeat : no-repeat;
+}
+.header_3_
+{
+	background-image : url(header_3_.png);
+	background-repeat : no-repeat;
+}
+.footer_8_
+{
+	background-image : url(footer_8_.png);
+	background-repeat : no-repeat;
+}
+.header_4_
+{
+	background-image : url(header_4_.png);
+	background-repeat : no-repeat;
+}
+.footer_6_
+{
+	background-image : url(footer_6_.png);
+	background-repeat : no-repeat;
+}
+.header_5_
+{
+	background-image : url(header_5_.png);
+	background-repeat : no-repeat;
+}
+.header_6_
+{
+	background-image : url(header_6_.png);
+	background-repeat : no-repeat;
+}
+.footer_10_
+{
+	background-image : url(footer_10_.png);
+	background-repeat : no-repeat;
+}
+.footer_12_
+{
+	background-image : url(footer_12_.png);
+	background-repeat : no-repeat;
+}
+.header_7_
+{
+	background-image : url(header_7_.png);
+	background-repeat : no-repeat;
+}
+.footer_14_
+{
+	background-image : url(footer_14_.png);
+	background-repeat : no-repeat;
+}
+.NormalCharacterStyle24
+{
+	font-family : Raleway;
+	font-weight : bold;
+	font-size : 21px;
+	line-height : 25px;
+	text-transform : uppercase;
+	color : #D40000;
+	color : rgb(212, 0, 0);
+}
+.NormalCharacterStyle23
+{
+	font-family : Raleway;
+	font-size : 16px;
+	line-height : 25px;
+	color : #D40000;
+	color : rgb(212, 0, 0);
+}
+.NormalCharacterStyle22
+{
+	font-family : Raleway;
+	font-weight : bold;
+	font-size : 21px;
+	line-height : 25px;
+	text-transform : uppercase;
+	color : #D40000;
+	color : rgb(212, 0, 0);
+}
+.NormalCharacterStyle21
+{
+	font-family : Raleway;
+	font-size : 16px;
+	line-height : 25px;
+	color : #D40000;
+	color : rgb(212, 0, 0);
+}
+.NormalCharacterStyle20
+{
+	font-family : Raleway;
+	font-weight : bold;
+	font-size : 21px;
+	line-height : 25px;
+	text-transform : uppercase;
+	color : #D40000;
+	color : rgb(212, 0, 0);
+}
+.NormalCharacterStyle19
+{
+	font-family : Raleway;
+	font-size : 16px;
+	line-height : 25px;
+	color : #D40000;
+	color : rgb(212, 0, 0);
+}
+.NormalCharacterStyle18
+{
+	font-family : Raleway;
+	font-size : 16px;
+	line-height : 25px;
+	color : #D40000;
+	color : rgb(212, 0, 0);
+}
+.NormalCharacterStyle17
+{
+	font-family : Raleway;
+	font-weight : bold;
+	font-size : 25px;
+	color : #474B4D;
+	color : rgb(71, 75, 77);
+}
+.NormalCharacterStyle16
+{
+	font-family : Raleway;
+	font-size : 13px;
+	color : #474B4D;
+	color : rgb(71, 75, 77);
+}
+.NormalCharacterStyle15
+{
+	font-family : Raleway;
+	font-weight : bold;
+	font-size : 22px;
+	line-height : 24px;
+	color : #474B4D;
+	color : rgb(71, 75, 77);
+}
+.NormalCharacterStyle14
+{
+	font-family : Raleway;
+	font-size : 13px;
+	color : #474B4D;
+	color : rgb(71, 75, 77);
+}
+.NormalCharacterStyle13
+{
+	font-family : Raleway;
+	font-weight : bold;
+	font-size : 22px;
+	line-height : 24px;
+	color : #474B4D;
+	color : rgb(71, 75, 77);
+}
+.NormalCharacterStyle12
+{
+	font-family : Raleway;
+	font-weight : bold;
+	font-size : 21px;
+	line-height : 25px;
+	text-transform : uppercase;
+	color : #D40000;
+	color : rgb(212, 0, 0);
+}
+.NormalCharacterStyle11
+{
+	font-family : Raleway;
+	font-size : 11px;
+	line-height : 21.29px;
+	color : #E74C3D;
+	color : rgb(231, 76, 61); 
+	text-decoration : underline;
+}
+.NormalCharacterStyle10
+{
+	font-family : FontAwesome;
+	font-size : 14px;
+	color : #E74C3D;
+	color : rgb(231, 76, 61);
+}
+.NormalCharacterStyle9
+{
+	font-family : Raleway;
+	font-weight : bold;
+	font-size : 44px;
+	line-height : 139.95px;
+	text-transform : uppercase;
+	color : #D40000;
+	color : rgb(212, 0, 0);
+}
+.NormalCharacterStyle8
+{
+	font-family : Raleway;
+	font-weight : bold;
+	font-size : 20px;
+	line-height : 85.53px;
+	text-transform : uppercase;
+	color : #D40000;
+	color : rgb(212, 0, 0);
+}
+.NormalCharacterStyle7
+{
+	font-family : Raleway;
+	font-weight : bold;
+	font-size : 44px;
+	line-height : 139.95px;
+	text-transform : uppercase;
+	color : #D40000;
+	color : rgb(212, 0, 0);
+}
+.NormalCharacterStyle3
+{
+	font-family : Raleway;
+	font-weight : bold;
+	font-size : 44px;
+	line-height : 139.95px;
+	text-transform : uppercase;
+	color : #D40000;
+	color : rgb(212, 0, 0);
+}
+.NormalCharacterStyle5
+{
+	font-family : Raleway;
+	font-weight : bold;
+	font-size : 44px;
+	line-height : 139.95px;
+	text-transform : uppercase;
+	color : #D40000;
+	color : rgb(212, 0, 0);
+}
+.NormalCharacterStyle4
+{
+	font-family : Raleway;
+	font-weight : bold;
+	font-size : 44px;
+	line-height : 139.95px;
+	text-transform : uppercase;
+	color : #D40000;
+	color : rgb(212, 0, 0);
+}
+.NormalCharacterStyle2
+{
+	font-family : Raleway;
+	font-weight : bold;
+	font-size : 44px;
+	line-height : 139.95px;
+	text-transform : uppercase;
+	color : #D40000;
+	color : rgb(212, 0, 0);
+}
+.NormalCharacterStyle6
+{
+	font-family : Raleway;
+	font-weight : bold;
+	font-size : 44px;
+	line-height : 139.95px;
+	text-transform : uppercase;
+	color : #D40000;
+	color : rgb(212, 0, 0);
+}
+.NormalCharacterStyle1
+{
+	font-family : Raleway;
+	font-weight : bold;
+	font-size : 21px;
+	line-height : 25px;
+	text-transform : uppercase;
+	color : #D40000;
+	color : rgb(212, 0, 0);
+}
+.NormalCharacterStyle
+{
+	font-family : Raleway;
+	font-size : 16px;
+	line-height : 25px;
+	color : #D40000;
+	color : rgb(212, 0, 0);
+}
+.NormalCharacterStyle37
+{
+	font-family : Myriad Pro;
+	font-size : 39px;
+	line-height : 47px;
+	text-transform : uppercase;
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+}
+.NormalCharacterStyle36
+{
+	font-family : Myriad Pro;
+	font-size : 15px;
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+}
+.NormalCharacterStyle35
+{
+	font-family : Raleway;
+	font-size : 14px;
+	line-height : 40.44px;
+	color : #D40000;
+	color : rgb(212, 0, 0);
+}
+.NormalCharacterStyle34
+{
+	font-family : Raleway;
+	font-weight : bold;
+	font-size : 32px;
+	line-height : 99.71px;
+	text-transform : uppercase;
+	color : #D40000;
+	color : rgb(212, 0, 0);
+}
+.NormalCharacterStyle33
+{
+	font-family : WeatherIcons Regular;
+	font-size : 19px;
+	line-height : 60.79px;
+	text-transform : uppercase;
+	color : #D40000;
+	color : rgb(212, 0, 0);
+}
+.NormalCharacterStyle32
+{
+	font-family : Myriad Pro;
+	font-size : 14px;
+	line-height : 40.44px;
+	color : #D40000;
+	color : rgb(212, 0, 0);
+}
+.NormalCharacterStyle31
+{
+	font-family : Myriad Pro;
+	font-size : 16px;
+	line-height : 25px;
+	color : #E74C3D;
+	color : rgb(231, 76, 61);
+}
+.NormalCharacterStyle30
+{
+	font-family : Raleway;
+	font-size : 24px;
+	line-height : 40.44px;
+	color : #D40000;
+	color : rgb(212, 0, 0);
+}
+.NormalCharacterStyle29
+{
+	font-family : Raleway;
+	font-weight : bold;
+	font-size : 20px;
+	line-height : 85.53px;
+	text-transform : uppercase;
+	color : #D40000;
+	color : rgb(212, 0, 0);
+}
+.NormalCharacterStyle28
+{
+	font-family : Raleway;
+	font-weight : bold;
+	font-size : 32px;
+	line-height : 99.71px;
+	text-transform : uppercase;
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+}
+.NormalCharacterStyle27
+{
+	font-family : Raleway;
+	font-weight : bold;
+	font-size : 32px;
+	line-height : 99.71px;
+	text-transform : uppercase;
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+}
+.NormalCharacterStyle26
+{
+	font-family : Raleway;
+	font-weight : bold;
+	font-size : 32px;
+	line-height : 99.71px;
+	text-transform : uppercase;
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+}
+.NormalCharacterStyle25
+{
+	font-family : Raleway;
+	font-weight : bold;
+	font-size : 20px;
+	line-height : 85.53px;
+	text-transform : uppercase;
+	color : #D40000;
+	color : rgb(212, 0, 0);
+}
+.x36__rezervacije_1_
+{
+	background-image : url(x36__rezervacije_1_.png);
+	background-repeat : no-repeat;
+}
+.footer_1_
+{
+	background-image : url(footer_1_.png);
+	background-repeat : no-repeat;
+}
+.ture
+{
+	background-image : url(ture.png);
+	background-repeat : no-repeat;
+}
+.x35_
+{
+	background-image : url(x35_.png);
+	background-repeat : no-repeat;
+}
+.x36__rezervacije
+{
+	background-image : url(x36__rezervacije.png);
+	background-repeat : no-repeat;
+}
